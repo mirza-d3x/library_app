@@ -1,6 +1,10 @@
 # library_app
 
-A new Flutter project.
+This is Library Application to display books details
+
+Bloc cubit is used for state management.
+followed Clean architecture principle in this.
+secured storage is used for store data in local
 
 ## Getting Started
 
